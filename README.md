@@ -1,6 +1,6 @@
-## Timeline UI Flutter
+# Timeline UI Flutter
 
-# Tampilan Aplikasi
+## Tampilan Aplikasi
 
 <table>
 <tr>
